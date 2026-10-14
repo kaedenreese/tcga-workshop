@@ -27,6 +27,33 @@
             ]
         }
     },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CyberpunkTCG/workshop.json": {
+        "hash": "8fa8ce2e4f8a4f64cdcffd9db00bfc36bccfe93b536a8960431c4dd860f6c2b3",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://russeus.github.io/CyberpunkTCG-TCGA/Cyberpunk-TCG-Cards.json",
+            "hash": "1feaeb95c1254954f09a1d12a887722ed10f6a4bc152ed1b6e2e449502fc7a4b",
+            "etag": "W/\"6ab135c0-5c8a\"",
+            "lastModified": "Mon, 21 Sep 2026 13:48:48 GMT"
+        },
+        "entry": {
+            "name": "Cyberpunk TCG",
+            "author": "Rojo",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CyberpunkTCG/workshop.json",
+            "gameUrl": "https://russeus.github.io/CyberpunkTCG-TCGA/Cyberpunk-TCG-Game.json",
+            "imageUrl": "https://cdn.imgchest.com/files/6770d283485d.jpg",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://cdn.imgchest.com/files/6770d283485d.jpg"
+            ],
+            "updates": []
+        }
+    },
     "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/Riftbound/workshop.json": {
         "hash": "c89dbf83ba953dd37e53d64b4ce067ed3baba5ede61809554b2dcf637c010703",
         "createdAt": "2026-09-26",
@@ -83,60 +110,6 @@
             "updates": []
         }
     },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/StarWarsUnlimited/workshop.json": {
-        "hash": "e4388de3bda9210960b3a67676869895063a21ad981270a6c55d1c0b944ec1b7",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://valcur.github.io/TCG-Arena-SWU/SWUCards.json",
-            "hash": "5f8bbbd68023d27e2977d61676a4533d58b97035bd6c7fb20617c8db1d3b9758",
-            "etag": "W/\"6a5bb9ab-25c997\"",
-            "lastModified": "Sat, 18 Jul 2026 17:36:43 GMT"
-        },
-        "entry": {
-            "name": "Star wars unlimited",
-            "author": "PiouPiou",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/StarWarsUnlimited/workshop.json",
-            "gameUrl": "https://valcur.github.io/TCG-Arena-SWU/Game_SWU.json",
-            "imageUrl": "https://i.ibb.co/JWTpk3P7/FMrb-NER-Imgur.jpg",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://i.ibb.co/JWTpk3P7/FMrb-NER-Imgur.jpg"
-            ],
-            "updates": []
-        }
-    },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CyberpunkTCG/workshop.json": {
-        "hash": "8fa8ce2e4f8a4f64cdcffd9db00bfc36bccfe93b536a8960431c4dd860f6c2b3",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://russeus.github.io/CyberpunkTCG-TCGA/Cyberpunk-TCG-Cards.json",
-            "hash": "1feaeb95c1254954f09a1d12a887722ed10f6a4bc152ed1b6e2e449502fc7a4b",
-            "etag": "W/\"6ab135c0-5c8a\"",
-            "lastModified": "Mon, 21 Sep 2026 13:48:48 GMT"
-        },
-        "entry": {
-            "name": "Cyberpunk TCG",
-            "author": "Rojo",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CyberpunkTCG/workshop.json",
-            "gameUrl": "https://russeus.github.io/CyberpunkTCG-TCGA/Cyberpunk-TCG-Game.json",
-            "imageUrl": "https://cdn.imgchest.com/files/6770d283485d.jpg",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://cdn.imgchest.com/files/6770d283485d.jpg"
-            ],
-            "updates": []
-        }
-    },
     "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/Altered/workshop.json": {
         "hash": "0600edcf4882db75bca815a6bbf920f682985a8ce2270a3a95f85c8c3265f20b",
         "createdAt": "2026-09-26",
@@ -165,31 +138,35 @@
             "updates": []
         }
     },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/Pokemon/workshop.json": {
-        "hash": "f9683706cf535dffadc2b63a75f8777db65545212ce55cc497a19cae57619f69",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
+    "https://jjcodes78.github.io/GundamTCG/workshop.json": {
+        "hash": "0c3472c43dad581caba3595bff729816570429f81998fd4fac9847ddfff22046",
+        "createdAt": "2026-10-14",
+        "lastUpdated": "2026-10-14",
         "cards": {
-            "url": "https://valcur.github.io/TCG-Arena-Pokemon/PokemonCards.json",
-            "hash": "8cf81f514c4538f4f8939bf6e494528cc6a079a021b215e3e12d72c281662070",
-            "etag": "W/\"6a68d645-7c8258\"",
-            "lastModified": "Tue, 28 Jul 2026 16:18:13 GMT"
+            "url": "https://jjcodes78.github.io/GundamTCG/GundamTCG_CardList.json?v=270720261318",
+            "hash": "7cab01dfe4a80dce6fa34af6789f186303d9662b2e0ce04c6719dabf9504c556",
+            "etag": "W/\"6aceef07-9a078\"",
+            "lastModified": "Wed, 14 Oct 2026 02:55:03 GMT"
         },
         "entry": {
-            "name": "Pokemon",
-            "author": "PiouPiou",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/Pokemon/workshop.json",
-            "gameUrl": "https://valcur.github.io/TCG-Arena-Pokemon/Game_Pokemon.json",
-            "imageUrl": "https://valcur.github.io/TCG-Arena-Pokemon/Images/1.jpg",
+            "name": "Gundam Card Game",
+            "author": "darthjj78",
+            "workshopUrl": "https://jjcodes78.github.io/GundamTCG/workshop.json",
+            "gameUrl": "https://jjcodes78.github.io/GundamTCG/Game_GundamTCG.json",
+            "imageUrl": "https://jjcodes78.github.io/GundamTCG/images/gundam_banner.jpeg",
             "tags": "",
             "langs": [
                 "en"
             ],
             "useAiArts": false,
             "screenshotUrls": [
-                "https://valcur.github.io/TCG-Arena-Pokemon/Images/1.jpg"
+                "https://i.ibb.co/ch0pcy00/IQgmd-MC-Imgur.jpg"
             ],
-            "updates": []
+            "descriptionUrl": "https://jjcodes78.github.io/GundamTCG/description.md",
+            "updates": [
+                "Version 10.2026.1:",
+                "- Added ST11, ST12, ST13 and ST14 cards and Starter Decks."
+            ]
         }
     },
     "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/Yu-Gi-Oh/workshop.json": {
@@ -219,36 +196,36 @@
             "updates": []
         }
     },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/GundamCardGame/workshop.json": {
-        "hash": "0c3472c43dad581caba3595bff729816570429f81998fd4fac9847ddfff22046",
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/StarWarsUnlimited/workshop.json": {
+        "hash": "e4388de3bda9210960b3a67676869895063a21ad981270a6c55d1c0b944ec1b7",
         "createdAt": "2026-09-26",
-        "lastUpdated": "2026-10-11",
+        "lastUpdated": "2026-09-27",
         "cards": {
-            "url": "https://jjcodes78.github.io/GundamTCG/GundamTCG_CardList.json?v=270720261318",
-            "hash": "7cab01dfe4a80dce6fa34af6789f186303d9662b2e0ce04c6719dabf9504c556",
-            "etag": "W/\"6aceef07-9a078\"",
-            "lastModified": "Wed, 14 Oct 2026 02:55:03 GMT"
+            "url": "https://valcur.github.io/TCG-Arena-SWU/SWUCards.json",
+            "hash": "5f8bbbd68023d27e2977d61676a4533d58b97035bd6c7fb20617c8db1d3b9758",
+            "etag": "W/\"6a5bb9ab-25c997\"",
+            "lastModified": "Sat, 18 Jul 2026 17:36:43 GMT"
         },
         "entry": {
-            "name": "Gundam Card Game",
-            "author": "jjcodes78",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/GundamCardGame/workshop.json",
-            "gameUrl": "https://jjcodes78.github.io/GundamTCG/Game_GundamTCG.json",
-            "imageUrl": "https://jjcodes78.github.io/GundamTCG/images/gundam_banner.jpeg",
+            "name": "Star wars unlimited",
+            "author": "PiouPiou",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/StarWarsUnlimited/workshop.json",
+            "gameUrl": "https://valcur.github.io/TCG-Arena-SWU/Game_SWU.json",
+            "imageUrl": "https://i.ibb.co/JWTpk3P7/FMrb-NER-Imgur.jpg",
             "tags": "",
             "langs": [
                 "en"
             ],
             "useAiArts": false,
             "screenshotUrls": [
-                "https://i.ibb.co/ch0pcy00/IQgmd-MC-Imgur.jpg"
+                "https://i.ibb.co/JWTpk3P7/FMrb-NER-Imgur.jpg"
             ],
             "updates": []
         }
     },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/GodzillaCardGame/workshop.json": {
+    "https://jjcodes78.github.io/GodzillaTCG/workshop.json": {
         "hash": "5041b7f43b86b564bdb1abd3839f92ea5afd2547c2543e1d48f1c693af6dbfae",
-        "createdAt": "2026-09-26",
+        "createdAt": "2026-10-14",
         "lastUpdated": "2026-10-14",
         "cards": {
             "url": "https://jjcodes78.github.io/GodzillaTCG/GodzillaTCG_CardList.json?v=0108202520031978",
@@ -258,8 +235,8 @@
         },
         "entry": {
             "name": "Godzilla Card Game",
-            "author": "jjcodes78",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/GodzillaCardGame/workshop.json",
+            "author": "darthjj78",
+            "workshopUrl": "https://jjcodes78.github.io/GodzillaTCG/workshop.json",
             "gameUrl": "https://jjcodes78.github.io/GodzillaTCG/Game_GodzillaTCG.json",
             "imageUrl": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla_banner.jpg",
             "tags": "",
@@ -270,7 +247,13 @@
             "screenshotUrls": [
                 "https://i.ibb.co/HTh4WppG/m-Oq21-Gk-Imgur.jpg"
             ],
-            "updates": []
+            "descriptionUrl": "https://jjcodes78.github.io/GodzillaTCG/description.md",
+            "updates": [
+                "Version 10.2026.1:",
+                "- Added sets EBP02, EBP03 and EBP04.",
+                "- Added deckbuild rulesets",
+                "- Fixes and improvements."
+            ]
         }
     },
     "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/DragonBallSuperFusionWorld/workshop.json": {
@@ -296,6 +279,60 @@
             "useAiArts": false,
             "screenshotUrls": [
                 "https://nichobrando.github.io/Dragon-Ball-Fusion-Arena/GameProps/menu_background.png"
+            ],
+            "updates": []
+        }
+    },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CookieRunBraverse/workshop.json": {
+        "hash": "6f4c7c8c260aade14d0b8ebfbb61cce440c4634a5f8a5d60f7d04c2dd8eba2d8",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://jarin55.github.io/Test/CardList_FINAL_v2.json",
+            "hash": "50d76679803ebfaaffc24b5485a41665853937db8e1aa9977e9b10fffc0a481f",
+            "etag": "W/\"6a9514d5-115c90\"",
+            "lastModified": "Mon, 31 Aug 2026 05:44:53 GMT"
+        },
+        "entry": {
+            "name": "CookieRun Braverse Dev",
+            "author": "Jarin",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CookieRunBraverse/workshop.json",
+            "gameUrl": "https://jarin55.github.io/TCG-Arena-CRB/Game_CRB.json",
+            "imageUrl": "https://cdn.imgchest.com/files/6a263ae7aab6.jpg",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://cdn.imgchest.com/files/6a263ae7aab6.jpg"
+            ],
+            "updates": []
+        }
+    },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/Pokemon/workshop.json": {
+        "hash": "f9683706cf535dffadc2b63a75f8777db65545212ce55cc497a19cae57619f69",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://valcur.github.io/TCG-Arena-Pokemon/PokemonCards.json",
+            "hash": "8cf81f514c4538f4f8939bf6e494528cc6a079a021b215e3e12d72c281662070",
+            "etag": "W/\"6a68d645-7c8258\"",
+            "lastModified": "Tue, 28 Jul 2026 16:18:13 GMT"
+        },
+        "entry": {
+            "name": "Pokemon",
+            "author": "PiouPiou",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/Pokemon/workshop.json",
+            "gameUrl": "https://valcur.github.io/TCG-Arena-Pokemon/Game_Pokemon.json",
+            "imageUrl": "https://valcur.github.io/TCG-Arena-Pokemon/Images/1.jpg",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://valcur.github.io/TCG-Arena-Pokemon/Images/1.jpg"
             ],
             "updates": []
         }
@@ -354,33 +391,6 @@
             "updates": []
         }
     },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CookieRunBraverse/workshop.json": {
-        "hash": "6f4c7c8c260aade14d0b8ebfbb61cce440c4634a5f8a5d60f7d04c2dd8eba2d8",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://jarin55.github.io/Test/CardList_FINAL_v2.json",
-            "hash": "50d76679803ebfaaffc24b5485a41665853937db8e1aa9977e9b10fffc0a481f",
-            "etag": "W/\"6a9514d1-115c90\"",
-            "lastModified": "Mon, 31 Aug 2026 05:44:49 GMT"
-        },
-        "entry": {
-            "name": "CookieRun Braverse Dev",
-            "author": "Jarin",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CookieRunBraverse/workshop.json",
-            "gameUrl": "https://jarin55.github.io/TCG-Arena-CRB/Game_CRB.json",
-            "imageUrl": "https://cdn.imgchest.com/files/6a263ae7aab6.jpg",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://cdn.imgchest.com/files/6a263ae7aab6.jpg"
-            ],
-            "updates": []
-        }
-    },
     "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/ForceofWill/workshop.json": {
         "hash": "40c45ee502828061d9fd30bfdcd08f10e2e16f1b85f14d56fac2bf436e36afb4",
         "createdAt": "2026-09-26",
@@ -404,33 +414,6 @@
             "useAiArts": false,
             "screenshotUrls": [
                 "https://cdn.imgchest.com/files/082370ee80b0.png"
-            ],
-            "updates": []
-        }
-    },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/AlphaClashTCG/workshop.json": {
-        "hash": "40f38b47ca6bfd9fdae307a350d17bb023675fc0bd9585e4e7199e70cc543ab5",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://themrfrick.github.io/Alpha-Clash-TCGArena/cards/alpha-clash-cards.json",
-            "hash": "1be0b24c6a98868221ba33fd8ecadf2cd48169ad4ed008651fcff6e0520cfd66",
-            "etag": "W/\"6aac06a5-1514ed\"",
-            "lastModified": "Thu, 17 Sep 2026 15:26:29 GMT"
-        },
-        "entry": {
-            "name": "Alpha Clash TCG",
-            "author": "TheMrFrick",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/AlphaClashTCG/workshop.json",
-            "gameUrl": "https://themrfrick.github.io/Alpha-Clash-TCGArena/game.json",
-            "imageUrl": "https://themrfrick.github.io/Alpha-Clash-TCGArena/images/backgrounds/alpha_clash_background_image.jpg",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://themrfrick.github.io/Alpha-Clash-TCGArena/images/backgrounds/alpha_clash_background_image.jpg"
             ],
             "updates": []
         }
@@ -462,6 +445,60 @@
             "updates": []
         }
     },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/AlphaClashTCG/workshop.json": {
+        "hash": "40f38b47ca6bfd9fdae307a350d17bb023675fc0bd9585e4e7199e70cc543ab5",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://themrfrick.github.io/Alpha-Clash-TCGArena/cards/alpha-clash-cards.json",
+            "hash": "1be0b24c6a98868221ba33fd8ecadf2cd48169ad4ed008651fcff6e0520cfd66",
+            "etag": "W/\"6aac06a5-1514ed\"",
+            "lastModified": "Thu, 17 Sep 2026 15:26:29 GMT"
+        },
+        "entry": {
+            "name": "Alpha Clash TCG",
+            "author": "TheMrFrick",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/AlphaClashTCG/workshop.json",
+            "gameUrl": "https://themrfrick.github.io/Alpha-Clash-TCGArena/game.json",
+            "imageUrl": "https://themrfrick.github.io/Alpha-Clash-TCGArena/images/backgrounds/alpha_clash_background_image.jpg",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://themrfrick.github.io/Alpha-Clash-TCGArena/images/backgrounds/alpha_clash_background_image.jpg"
+            ],
+            "updates": []
+        }
+    },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/DragonBallSuperCardGameMasters/workshop.json": {
+        "hash": "91731fab1680e55343def042577a25040454715cdf73430662941b37e74c3efb",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/cards.json",
+            "hash": "2a93e3f33f7da46440040517099cccb2bfb14634d3eb6491435b3a571198c3dd",
+            "etag": "W/\"6a1f0ac2-97ece8\"",
+            "lastModified": "Tue, 02 Jun 2026 16:54:26 GMT"
+        },
+        "entry": {
+            "name": "Dragon Ball Super Card Game Masters",
+            "author": "DBS Team",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/DragonBallSuperCardGameMasters/workshop.json",
+            "gameUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/Game_Dragon%20Ball%20Super%20Card%20Game_Final.json",
+            "imageUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/MastersBanner.png",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/MastersBanner.png"
+            ],
+            "updates": []
+        }
+    },
     "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/PalworldOCG/workshop.json": {
         "hash": "f5748edc274cf8fc2e0285d81a282f309a29a4722356e7e77f8db154b286a613",
         "createdAt": "2026-09-26",
@@ -485,87 +522,6 @@
             "useAiArts": false,
             "screenshotUrls": [
                 "https://balbi.github.io/TCG-Arena-Palworld/images/banner.png"
-            ],
-            "updates": []
-        }
-    },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/DragonBallSuperCardGameMasters/workshop.json": {
-        "hash": "91731fab1680e55343def042577a25040454715cdf73430662941b37e74c3efb",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/cards.json",
-            "hash": "2a93e3f33f7da46440040517099cccb2bfb14634d3eb6491435b3a571198c3dd",
-            "etag": "W/\"6a1f0ac3-97ece8\"",
-            "lastModified": "Tue, 02 Jun 2026 16:54:27 GMT"
-        },
-        "entry": {
-            "name": "Dragon Ball Super Card Game Masters",
-            "author": "DBS Team",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/DragonBallSuperCardGameMasters/workshop.json",
-            "gameUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/Game_Dragon%20Ball%20Super%20Card%20Game_Final.json",
-            "imageUrl": "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/MastersBanner.png",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://vitorjcorreia.github.io/Dragon-Ball-Masters-Arena/imgs/MastersBanner.png"
-            ],
-            "updates": []
-        }
-    },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/AzukiTCG/workshop.json": {
-        "hash": "4f7c36408165186c0a99388a274c010a8b0d0fa64ee56c4a1ffb969a90a9d4fe",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://padamsonclark.github.io/AzukiTCG/CardList.json",
-            "hash": "ba810f094c390be524b28387003ee61a437620bcaf72a7e60e5091544a24c2e1",
-            "etag": "W/\"69edfeb8-1a20b\"",
-            "lastModified": "Sun, 26 Apr 2026 12:02:00 GMT"
-        },
-        "entry": {
-            "name": "Azuki TCG",
-            "author": "Clark",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/AzukiTCG/workshop.json",
-            "gameUrl": "https://padamsonclark.github.io/AzukiTCG/Game_AzukiTCG.json",
-            "imageUrl": "https://padamsonclark.github.io/AzukiTCG/Images/background.jpg",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://padamsonclark.github.io/AzukiTCG/Images/background.jpg"
-            ],
-            "updates": []
-        }
-    },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CryptidCamp/workshop.json": {
-        "hash": "403607596c165f76e5cfcc1f532fdf4adbe21ff23cf57e5991a7298e273d6536",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://res.cloudinary.com/dmt0sv1yi/raw/upload/v1790125239/cards_full_cleaned_jhpil4.json",
-            "hash": "42f2dc5c3fc181a649a5bc139bd393fb9efa91540ec78d18cfa7ca119771ee16",
-            "etag": "W/\"da794b3bf38fdcbc9f4d6e523208c9b8\"",
-            "lastModified": "Wed, 23 Sep 2026 01:30:54 GMT"
-        },
-        "entry": {
-            "name": "Cryptid Camp",
-            "author": "Cryptid Camp",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CryptidCamp/workshop.json",
-            "gameUrl": "https://res.cloudinary.com/dmt0sv1yi/raw/upload/v1773684197/Game_Cryptid_Camp_j5wdah.json",
-            "imageUrl": "https://raw.githubusercontent.com/douglasc0leman/cryptid-camp-tcg-arena/refs/heads/main/cc-tcg-arena-logo.png",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://raw.githubusercontent.com/douglasc0leman/cryptid-camp-tcg-arena/refs/heads/main/cc-tcg-arena-logo.png"
             ],
             "updates": []
         }
@@ -624,6 +580,33 @@
             "updates": []
         }
     },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CryptidCamp/workshop.json": {
+        "hash": "403607596c165f76e5cfcc1f532fdf4adbe21ff23cf57e5991a7298e273d6536",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://res.cloudinary.com/dmt0sv1yi/raw/upload/v1790125239/cards_full_cleaned_jhpil4.json",
+            "hash": "42f2dc5c3fc181a649a5bc139bd393fb9efa91540ec78d18cfa7ca119771ee16",
+            "etag": "W/\"da794b3bf38fdcbc9f4d6e523208c9b8\"",
+            "lastModified": "Wed, 23 Sep 2026 01:30:54 GMT"
+        },
+        "entry": {
+            "name": "Cryptid Camp",
+            "author": "Cryptid Camp",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CryptidCamp/workshop.json",
+            "gameUrl": "https://res.cloudinary.com/dmt0sv1yi/raw/upload/v1773684197/Game_Cryptid_Camp_j5wdah.json",
+            "imageUrl": "https://raw.githubusercontent.com/douglasc0leman/cryptid-camp-tcg-arena/refs/heads/main/cc-tcg-arena-logo.png",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://raw.githubusercontent.com/douglasc0leman/cryptid-camp-tcg-arena/refs/heads/main/cc-tcg-arena-logo.png"
+            ],
+            "updates": []
+        }
+    },
     "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/MyLittlePony/workshop.json": {
         "hash": "79b365f46a415eed00786c812382535be41fc3f7949d66a3186151eb1a690dcf",
         "createdAt": "2026-09-26",
@@ -647,60 +630,6 @@
             "useAiArts": false,
             "screenshotUrls": [
                 "https://cdn.imgchest.com/files/07b61a92ea49.jpg"
-            ],
-            "updates": []
-        }
-    },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/VampireTheEternalStruggle/workshop.json": {
-        "hash": "6c69919c69c83e6356094d2afdf816e55d119663666ebf848fea4e25aaa5c659",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_Cards.json",
-            "hash": "8829650ad8267f2080d8e387584c991ba3c3707eeb6773548d13a263aec89e3a",
-            "etag": "W/\"69ee75ae-27869d\"",
-            "lastModified": "Sun, 26 Apr 2026 20:29:34 GMT"
-        },
-        "entry": {
-            "name": "Vampire The Eternal Struggle",
-            "author": "Rayk",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/VampireTheEternalStruggle/workshop.json",
-            "gameUrl": "https://raykwashington.github.io/TCG-Arena-VTES/Game_Vampire_%20The%20Eternal%20Struggle.json",
-            "imageUrl": "https://usercontent.one/wp/www.blackchantry.com/wp-content/uploads/2020/02/VTES-Fifth-Edition-Samuel-Araya-961x1024.jpg?media=1737972471",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://usercontent.one/wp/www.blackchantry.com/wp-content/uploads/2020/02/VTES-Fifth-Edition-Samuel-Araya-961x1024.jpg?media=1737972471"
-            ],
-            "updates": []
-        }
-    },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/RiftRunnersTCG/workshop.json": {
-        "hash": "19ea1106d2b969ebf97950f0fba6ad095f2ab187ea53bbe9db60abc3291b91d0",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://balbi.github.io/TCGA-Rift-Runners/RiftRunnersTCG_Cards.json",
-            "hash": "0201017449d94f4c9414566d369666e3e0f2094244083f4e2d1b42a89338e896",
-            "etag": "W/\"6a304d88-6d8e9\"",
-            "lastModified": "Mon, 15 Jun 2026 19:07:52 GMT"
-        },
-        "entry": {
-            "name": "Rift Runners TCG",
-            "author": "Balbi",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/RiftRunnersTCG/workshop.json",
-            "gameUrl": "https://balbi.github.io/TCGA-Rift-Runners/RiftRunnersTCG_Game.json",
-            "imageUrl": "https://balbi.github.io/TCGA-Rift-Runners/backgrounds/background.jpg",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://balbi.github.io/TCGA-Rift-Runners/backgrounds/background.jpg"
             ],
             "updates": []
         }
@@ -732,6 +661,87 @@
             "updates": []
         }
     },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/VampireTheEternalStruggle/workshop.json": {
+        "hash": "6c69919c69c83e6356094d2afdf816e55d119663666ebf848fea4e25aaa5c659",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://raykwashington.github.io/TCG-Arena-VTES/VTES_Cards.json",
+            "hash": "8829650ad8267f2080d8e387584c991ba3c3707eeb6773548d13a263aec89e3a",
+            "etag": "W/\"69ee75ae-27869d\"",
+            "lastModified": "Sun, 26 Apr 2026 20:29:34 GMT"
+        },
+        "entry": {
+            "name": "Vampire The Eternal Struggle",
+            "author": "Rayk",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/VampireTheEternalStruggle/workshop.json",
+            "gameUrl": "https://raykwashington.github.io/TCG-Arena-VTES/Game_Vampire_%20The%20Eternal%20Struggle.json",
+            "imageUrl": "https://usercontent.one/wp/www.blackchantry.com/wp-content/uploads/2020/02/VTES-Fifth-Edition-Samuel-Araya-961x1024.jpg?media=1737972471",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://usercontent.one/wp/www.blackchantry.com/wp-content/uploads/2020/02/VTES-Fifth-Edition-Samuel-Araya-961x1024.jpg?media=1737972471"
+            ],
+            "updates": []
+        }
+    },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/AzukiTCG/workshop.json": {
+        "hash": "4f7c36408165186c0a99388a274c010a8b0d0fa64ee56c4a1ffb969a90a9d4fe",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://padamsonclark.github.io/AzukiTCG/CardList.json",
+            "hash": "ba810f094c390be524b28387003ee61a437620bcaf72a7e60e5091544a24c2e1",
+            "etag": "W/\"69edfeb8-1a20b\"",
+            "lastModified": "Sun, 26 Apr 2026 12:02:00 GMT"
+        },
+        "entry": {
+            "name": "Azuki TCG",
+            "author": "Clark",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/AzukiTCG/workshop.json",
+            "gameUrl": "https://padamsonclark.github.io/AzukiTCG/Game_AzukiTCG.json",
+            "imageUrl": "https://padamsonclark.github.io/AzukiTCG/Images/background.jpg",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://padamsonclark.github.io/AzukiTCG/Images/background.jpg"
+            ],
+            "updates": []
+        }
+    },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/RiftRunnersTCG/workshop.json": {
+        "hash": "19ea1106d2b969ebf97950f0fba6ad095f2ab187ea53bbe9db60abc3291b91d0",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://balbi.github.io/TCGA-Rift-Runners/RiftRunnersTCG_Cards.json",
+            "hash": "0201017449d94f4c9414566d369666e3e0f2094244083f4e2d1b42a89338e896",
+            "etag": "W/\"6a304d87-6d8e9\"",
+            "lastModified": "Mon, 15 Jun 2026 19:07:51 GMT"
+        },
+        "entry": {
+            "name": "Rift Runners TCG",
+            "author": "Balbi",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/RiftRunnersTCG/workshop.json",
+            "gameUrl": "https://balbi.github.io/TCGA-Rift-Runners/RiftRunnersTCG_Game.json",
+            "imageUrl": "https://balbi.github.io/TCGA-Rift-Runners/backgrounds/background.jpg",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://balbi.github.io/TCGA-Rift-Runners/backgrounds/background.jpg"
+            ],
+            "updates": []
+        }
+    },
     "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/CataclysmArcade/workshop.json": {
         "hash": "c4183c140645c5167aa27cc2f1a8a542779098e9aa0988abd7f5f35844edd821",
         "createdAt": "2026-09-26",
@@ -755,6 +765,33 @@
             "useAiArts": false,
             "screenshotUrls": [
                 "https://balbi.github.io/TCGA-Cataclysm-Arcade/images/background.jpg"
+            ],
+            "updates": []
+        }
+    },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/NarutoTCG/workshop.json": {
+        "hash": "1e0cd20aa712ede6d4477fe8ac89e139ebb35bcd6687c67020460d986b457359",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://tmacaroni.github.io/NarutoTCG/CardList.json",
+            "hash": "818f24189e1cbe73f1deb3cb38812ae08aaf02f64924fc1fa5a5bad73bf115f0",
+            "etag": "W/\"6a6eefa7-2e6c\"",
+            "lastModified": "Sun, 02 Aug 2026 07:20:07 GMT"
+        },
+        "entry": {
+            "name": "Naruto TCG",
+            "author": "TMac",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/NarutoTCG/workshop.json",
+            "gameUrl": "https://tmacaroni.github.io/NarutoTCG/Game_Naruto%20TCG.json",
+            "imageUrl": "https://tmacaroni.github.io/NarutoTCG/background.webp",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://tmacaroni.github.io/NarutoTCG/background.webp"
             ],
             "updates": []
         }
@@ -813,60 +850,6 @@
             "updates": []
         }
     },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/NarutoTCG/workshop.json": {
-        "hash": "1e0cd20aa712ede6d4477fe8ac89e139ebb35bcd6687c67020460d986b457359",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://tmacaroni.github.io/NarutoTCG/CardList.json",
-            "hash": "818f24189e1cbe73f1deb3cb38812ae08aaf02f64924fc1fa5a5bad73bf115f0",
-            "etag": "W/\"6a6eefa7-2e6c\"",
-            "lastModified": "Sun, 02 Aug 2026 07:20:07 GMT"
-        },
-        "entry": {
-            "name": "Naruto TCG",
-            "author": "TMac",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/NarutoTCG/workshop.json",
-            "gameUrl": "https://tmacaroni.github.io/NarutoTCG/Game_Naruto%20TCG.json",
-            "imageUrl": "https://tmacaroni.github.io/NarutoTCG/background.webp",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://tmacaroni.github.io/NarutoTCG/background.webp"
-            ],
-            "updates": []
-        }
-    },
-    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/MarvelChampions/workshop.json": {
-        "hash": "60b1535fe276121f7de4f62e48458d0eedbd071fa9bdd3ca507df6a7bb103c3e",
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-09-27",
-        "cards": {
-            "url": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Cards.json",
-            "hash": "4ec17e09839b6e1baf69d068899f36224ac5b6b2b85995bf35c8fd3b028f88ad",
-            "etag": "W/\"6a8c19e3-1c2dd\"",
-            "lastModified": "Mon, 24 Aug 2026 10:16:03 GMT"
-        },
-        "entry": {
-            "name": "Marvel Champions",
-            "author": "PiouPiou",
-            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/MarvelChampions/workshop.json",
-            "gameUrl": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Game.json",
-            "imageUrl": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/banner.jpeg",
-            "tags": "",
-            "langs": [
-                "en"
-            ],
-            "useAiArts": false,
-            "screenshotUrls": [
-                "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/banner.jpeg"
-            ],
-            "updates": []
-        }
-    },
     "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/Classic/workshop.json": {
         "hash": "2bb1f89459a517b980088d56a321f8d46806b5bc471a4387693f5f710c62f8b1",
         "createdAt": "2026-09-26",
@@ -920,31 +903,31 @@
             "updates": []
         }
     },
-    "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Workshop.json": {
-        "hash": "ea2f2255223561ca153f4fecade3c8ccd2c6a5c81d8559e37e0d1280b6091ef2",
-        "createdAt": "2026-10-12",
-        "lastUpdated": "2026-10-12",
+    "https://valcur.github.io/TCG-Arena-UnionArena/workshop/workshop.json": {
+        "hash": "d71df92731f07f8095f49fed413170ca7faa61092f04ae5532b02f84eeb9e4ef",
+        "createdAt": "2026-10-07",
+        "lastUpdated": "2026-10-11",
         "cards": {
-            "url": "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Cards.json",
-            "hash": "aa94310334831b15e00df10fc17a61cafdb8fcf5f2002ab5c75fc3fe42cb826f",
-            "etag": "W/\"6acea7ac-a597\"",
-            "lastModified": "Tue, 13 Oct 2026 21:50:36 GMT"
+            "url": "https://valcur.github.io/TCG-Arena-UnionArena/cards.json",
+            "hash": "5746b9d149905d9c234d7bcdb872c86650fd69c989c783ef38c46c89c3d3a3d1",
+            "etag": "W/\"6aca353d-3540f6\"",
+            "lastModified": "Sat, 10 Oct 2026 12:53:17 GMT"
         },
         "entry": {
-            "name": "Blood and Salt: Siege",
-            "author": "Gage Bacon",
-            "workshopUrl": "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Workshop.json",
-            "gameUrl": "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Game.json",
-            "imageUrl": "https://raw.githubusercontent.com/gagebacon/Blood-and-Salt-Siege_Public-Domain/82aed62ce97ce8b0a1585724b18be1425f719edb/Card%20Gallery/__Card%20Back_Mercenaries.png",
-            "tags": "tcg, 2-players, search-and-destroy, tactical shooter, destructible environments, character-centric, pick-and-ban, constructed",
+            "name": "Union Arena",
+            "author": "PiouPiou",
+            "workshopUrl": "https://valcur.github.io/TCG-Arena-UnionArena/workshop/workshop.json",
+            "gameUrl": "https://valcur.github.io/TCG-Arena-UnionArena/game.json",
+            "imageUrl": "https://valcur.github.io/TCG-Arena-UnionArena/images/banner.jpg",
+            "tags": "",
             "langs": [
                 "en"
             ],
             "useAiArts": false,
             "screenshotUrls": [],
+            "descriptionUrl": "https://valcur.github.io/TCG-Arena-UnionArena/workshop/description.md",
             "updates": [
-                "First release!",
-                "Big update:\n- Constructed Format release\n- Pick-and-Ban Format release (still pending automated pregame draft setup)\n- Current cards added to database"
+                "First release!"
             ]
         }
     },
@@ -980,32 +963,59 @@
             ]
         }
     },
-    "https://valcur.github.io/TCG-Arena-UnionArena/workshop/workshop.json": {
-        "hash": "d71df92731f07f8095f49fed413170ca7faa61092f04ae5532b02f84eeb9e4ef",
-        "createdAt": "2026-10-07",
-        "lastUpdated": "2026-10-11",
+    "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Workshop.json": {
+        "hash": "ea2f2255223561ca153f4fecade3c8ccd2c6a5c81d8559e37e0d1280b6091ef2",
+        "createdAt": "2026-10-12",
+        "lastUpdated": "2026-10-12",
         "cards": {
-            "url": "https://valcur.github.io/TCG-Arena-UnionArena/cards.json",
-            "hash": "5746b9d149905d9c234d7bcdb872c86650fd69c989c783ef38c46c89c3d3a3d1",
-            "etag": "W/\"6aca353d-3540f6\"",
-            "lastModified": "Sat, 10 Oct 2026 12:53:17 GMT"
+            "url": "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Cards.json",
+            "hash": "aa94310334831b15e00df10fc17a61cafdb8fcf5f2002ab5c75fc3fe42cb826f",
+            "etag": "W/\"6acea7ac-a597\"",
+            "lastModified": "Tue, 13 Oct 2026 21:50:36 GMT"
         },
         "entry": {
-            "name": "Union Arena",
-            "author": "PiouPiou",
-            "workshopUrl": "https://valcur.github.io/TCG-Arena-UnionArena/workshop/workshop.json",
-            "gameUrl": "https://valcur.github.io/TCG-Arena-UnionArena/game.json",
-            "imageUrl": "https://valcur.github.io/TCG-Arena-UnionArena/images/banner.jpg",
-            "tags": "",
+            "name": "Blood and Salt: Siege",
+            "author": "Gage Bacon",
+            "workshopUrl": "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Workshop.json",
+            "gameUrl": "https://gagebacon.github.io/Blood-and-Salt-Siege_Public-Domain/Game.json",
+            "imageUrl": "https://raw.githubusercontent.com/gagebacon/Blood-and-Salt-Siege_Public-Domain/82aed62ce97ce8b0a1585724b18be1425f719edb/Card%20Gallery/__Card%20Back_Mercenaries.png",
+            "tags": "tcg, 2-players, search-and-destroy, tactical shooter, destructible environments, character-centric, pick-and-ban, constructed",
             "langs": [
                 "en"
             ],
             "useAiArts": false,
             "screenshotUrls": [],
-            "descriptionUrl": "https://valcur.github.io/TCG-Arena-UnionArena/workshop/description.md",
             "updates": [
-                "First release!"
+                "First release!",
+                "Big update:\n- Constructed Format release\n- Pick-and-Ban Format release (still pending automated pregame draft setup)\n- Current cards added to database"
             ]
+        }
+    },
+    "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/MarvelChampions/workshop.json": {
+        "hash": "60b1535fe276121f7de4f62e48458d0eedbd071fa9bdd3ca507df6a7bb103c3e",
+        "createdAt": "2026-09-26",
+        "lastUpdated": "2026-09-27",
+        "cards": {
+            "url": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Cards.json",
+            "hash": "4ec17e09839b6e1baf69d068899f36224ac5b6b2b85995bf35c8fd3b028f88ad",
+            "etag": "W/\"6a8c19e3-1c2dd\"",
+            "lastModified": "Mon, 24 Aug 2026 10:16:03 GMT"
+        },
+        "entry": {
+            "name": "Marvel Champions",
+            "author": "PiouPiou",
+            "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/MarvelChampions/workshop.json",
+            "gameUrl": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Game.json",
+            "imageUrl": "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/banner.jpeg",
+            "tags": "",
+            "langs": [
+                "en"
+            ],
+            "useAiArts": false,
+            "screenshotUrls": [
+                "https://valcur.github.io/TCG-Arena-Marvel-Champions/Images/banner.jpeg"
+            ],
+            "updates": []
         }
     }
 }

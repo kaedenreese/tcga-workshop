@@ -163,8 +163,8 @@
     },
     {
         "name": "Gundam Card Game",
-        "author": "jjcodes78",
-        "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/GundamCardGame/workshop.json",
+        "author": "darthjj78",
+        "workshopUrl": "https://jjcodes78.github.io/GundamTCG/workshop.json",
         "gameUrl": "https://jjcodes78.github.io/GundamTCG/Game_GundamTCG.json",
         "imageUrl": "https://jjcodes78.github.io/GundamTCG/images/gundam_banner.jpeg",
         "tags": "",
@@ -175,15 +175,19 @@
         "screenshotUrls": [
             "https://i.ibb.co/ch0pcy00/IQgmd-MC-Imgur.jpg"
         ],
-        "updates": [],
-        "createdAt": "2026-09-26",
-        "lastUpdated": "2026-10-11",
+        "descriptionUrl": "https://jjcodes78.github.io/GundamTCG/description.md",
+        "updates": [
+            "Version 10.2026.1:",
+            "- Added ST11, ST12, ST13 and ST14 cards and Starter Decks."
+        ],
+        "createdAt": "2026-10-14",
+        "lastUpdated": "2026-10-14",
         "popularity": 4772
     },
     {
         "name": "Godzilla Card Game",
-        "author": "jjcodes78",
-        "workshopUrl": "https://tcg-arena-pioupiou.github.io/tcga-workshop/tmp/GodzillaCardGame/workshop.json",
+        "author": "darthjj78",
+        "workshopUrl": "https://jjcodes78.github.io/GodzillaTCG/workshop.json",
         "gameUrl": "https://jjcodes78.github.io/GodzillaTCG/Game_GodzillaTCG.json",
         "imageUrl": "https://jjcodes78.github.io/GodzillaTCG/images/godzilla_banner.jpg",
         "tags": "",
@@ -194,8 +198,14 @@
         "screenshotUrls": [
             "https://i.ibb.co/HTh4WppG/m-Oq21-Gk-Imgur.jpg"
         ],
-        "updates": [],
-        "createdAt": "2026-09-26",
+        "descriptionUrl": "https://jjcodes78.github.io/GodzillaTCG/description.md",
+        "updates": [
+            "Version 10.2026.1:",
+            "- Added sets EBP02, EBP03 and EBP04.",
+            "- Added deckbuild rulesets",
+            "- Fixes and improvements."
+        ],
+        "createdAt": "2026-10-14",
         "lastUpdated": "2026-10-14",
         "popularity": 731
     },
