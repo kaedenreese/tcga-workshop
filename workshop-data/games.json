@@ -694,5 +694,29 @@
         "createdAt": "2026-10-12",
         "lastUpdated": "2026-10-12",
         "popularity": 0
+    },
+    {
+        "name": "SevenGalaxiesTCG",
+        "author": "darthjj78",
+        "workshopUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/workshop.json",
+        "gameUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/Game_7GTCG.json",
+        "imageUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/images/logo.jpeg?09102026",
+        "tags": "tcg,fantasy",
+        "langs": [
+            "en",
+            "pt"
+        ],
+        "useAiArts": false,
+        "screenshotUrls": [
+            "https://jjcodes78.github.io/SevenGalaxiesTCG/images/logo.jpeg"
+        ],
+        "descriptionUrl": "https://jjcodes78.github.io/SevenGalaxiesTCG/description.md",
+        "updates": [
+            "Version 10.2026.1:",
+            "- Added all available sets."
+        ],
+        "createdAt": "2026-10-14",
+        "lastUpdated": "2026-10-14",
+        "popularity": 0
     }
 ]
